@@ -10,15 +10,6 @@
 
 <p align="left"> <a href="https://twitter.com/riyoazel" target="blank"><img src="https://img.shields.io/twitter/follow/riyoazel?logo=twitter&style=for-the-badge" alt="riyoazel" /></a> </p>
 
-- 🌱 I’m currently learning **Django**
-
-- 💬 Ask me about **python**
-
-- 📫 How to reach me **reuazel@gmail.com**
-
-- ⚡ Fun fact **A jack of all trades**
-
-
 - 🌟 Currently Exploring: **AI innovations and creative coding projects.**
   
 - 🛠️ Ask Me About: **Tech hobbies, and design concepts.**
