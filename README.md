@@ -16,4 +16,4 @@
   
 - 📧 Contact Me: **reuazel@gmail.com**
   
-- 🎉 Fun Fact: **A curious mind with a love for arts, poetry, and cooking, always on the lookout for the next learning adventure.**
+- 🎉 Fun Fact: **A curious mind with a love for arts, poetry, and music, always on the lookout for the next learning adventure.**
