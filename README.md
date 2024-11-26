@@ -13,4 +13,4 @@
   
 - 📧 Contact Me: **reuazel@gmail.com**
   
-- <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="20px" /> Fun Fact: **A curious mind with a love for arts, poetry, and music, always on the lookout for the next learning adventure.**
+- <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="20px" /> Fun Fact: **A curious mind with a love for arts, poetry, and music.**
