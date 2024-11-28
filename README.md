@@ -7,8 +7,7 @@
 
 <p align="left"> <a href="https://www.facebook.com/profile.php?id=100016802287424" target="blank"><img src="https://img.shields.io/twitter/follow/ReuAzel?logo=twitter&style=for-the-badge" alt="reuazel" /></a> </p>
 
-- <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="20px" /> Currently Exploring: **AI innovations and creative coding projects.**
-  
+- <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="20px" /> Exploring: **AI innovations and creative coding.**
 - <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="20px" /> Ask Me About: **Tech hobbies, and design concepts.**
   
 - 📧 Contact Me: **reuazel@gmail.com**
